@@ -1,0 +1,14 @@
+.knop {
+   background-color: black;
+   color: white;   
+}
+
+.knop2 {
+   background-color: yellow; 
+}
+
+.knop,
+.knop2 {
+    font-size: 28px;
+    font-family: "Times new Roman", Helvetica, sans-serif;
+}
