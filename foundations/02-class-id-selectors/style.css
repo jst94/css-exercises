@@ -1,4 +1,21 @@
 .p {
    background-color: pink; 
-   font-family: Verdana, Geneva, Tahoma, sans-serif, DejaVu;
+   font-family: Verdana, Geneva, Tahoma, sans-serif, "DejaVu-Sans";
 }
+
+#een{
+    color: blue;
+    font: 36px;
+}
+
+#vier {
+    background-color: green;
+    font: 24px;
+    font-weight: bold;
+}
+
+.super {
+    font-size: 24px;
+    font-weight: bold;
+}
+
